@@ -1,0 +1,7 @@
+G:\Roger\Software Propios\Aplicaciones de Escritorio\C#\Login contra AD\Login contra AD\bin\Debug\Login contra AD.exe.config
+G:\Roger\Software Propios\Aplicaciones de Escritorio\C#\Login contra AD\Login contra AD\bin\Debug\Login contra AD.exe
+G:\Roger\Software Propios\Aplicaciones de Escritorio\C#\Login contra AD\Login contra AD\bin\Debug\Login contra AD.pdb
+G:\Roger\Software Propios\Aplicaciones de Escritorio\C#\Login contra AD\Login contra AD\obj\Debug\Login contra AD.csprojAssemblyReference.cache
+G:\Roger\Software Propios\Aplicaciones de Escritorio\C#\Login contra AD\Login contra AD\obj\Debug\Login contra AD.csproj.CoreCompileInputs.cache
+G:\Roger\Software Propios\Aplicaciones de Escritorio\C#\Login contra AD\Login contra AD\obj\Debug\Login contra AD.exe
+G:\Roger\Software Propios\Aplicaciones de Escritorio\C#\Login contra AD\Login contra AD\obj\Debug\Login contra AD.pdb
